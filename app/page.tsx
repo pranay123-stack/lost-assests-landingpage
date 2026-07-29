@@ -140,6 +140,7 @@ export default function Home() {
           <a href="#approach">Our approach</a>
           <a href="#probate">Probate support</a>
           <a href="#aasi">About AASI</a>
+          <a href="/workspace">Case workspace</a>
           <a className="nav-cta" href="#contact">Start an inquiry <span>↗</span></a>
         </nav>
       </header>
@@ -383,6 +384,7 @@ export default function Home() {
         </a>
         <p>Proprietary tech. Professional judgment. Discreet recovery.</p>
         <div className="footer-links">
+          <a href="/workspace">Open case workspace ↗</a>
           <a href="#search-areas">Explore search coverage ↓</a>
           <a href="/aasi">Explore AASI ↗</a>
           <span>© {new Date().getFullYear()} Advertising Audit Services International</span>
