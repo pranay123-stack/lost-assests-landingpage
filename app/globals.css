@@ -138,6 +138,8 @@ h1 em, h2 em { font-family: var(--font-display), Georgia, serif; color: var(--go
 .button:hover { transform: translateY(-2px); }
 .button-primary { background: var(--gold); color: var(--ink); }
 .button-primary:hover { background: #e2c17e; }
+.button-claims { background: rgba(16,193,123,.12); color: #2d7d5c; border: 1px solid rgba(16,193,123,.3); }
+.button-claims:hover { background: rgba(16,193,123,.2); }
 .text-link { font-size: 12px; color: rgba(255,255,255,.75); border-bottom: 1px solid rgba(255,255,255,.2); padding: 10px 0; }
 .text-link span { color: var(--mint); margin-left: 12px; }
 .trust-line { display: flex; gap: 13px; align-items: center; margin-top: 46px; color: rgba(255,255,255,.7); }

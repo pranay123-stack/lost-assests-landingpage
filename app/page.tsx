@@ -198,6 +198,7 @@ export default function Home() {
           </p>
           <div className="hero-actions">
             <a className="button button-primary" href="#contact">Discuss potential funds <span>↗</span></a>
+            <a className="button button-claims" href="/login">Claims portal <span>↗</span></a>
             <a className="text-link" href="#approach">See our process <span>↓</span></a>
           </div>
           <div className="trust-line">
