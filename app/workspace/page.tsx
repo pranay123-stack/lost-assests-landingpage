@@ -1,6 +1,7 @@
 "use client";
 
 import { ChangeEvent, DragEvent, useMemo, useRef, useState } from "react";
+import Link from "next/link";
 
 type DataRow = Record<string, string> & {
   __rowId: string;
@@ -295,7 +296,7 @@ export default function WorkspacePage() {
   return (
     <main className="workspace-page">
       <header className="workspace-header">
-        <a className="brand" href="/" aria-label="Lost Assets home">
+        <Link className="brand" href="/" aria-label="Lost Assets home">
           <span className="brand-mark" aria-hidden="true">
             <span className="brand-monogram"><b>L</b><i>A</i></span>
             <span className="brand-signal" />
@@ -304,10 +305,10 @@ export default function WorkspacePage() {
             <strong>Lost Assets</strong>
             <span>Case Workspace</span>
           </span>
-        </a>
+        </Link>
         <div className="workspace-header-actions">
           <span><i /> Browser-private session</span>
-          <a href="/">Return to site ↗</a>
+          <Link href="/">Return to site ↗</Link>
         </div>
       </header>
 
@@ -453,7 +454,7 @@ export default function WorkspacePage() {
 
       <footer className="workspace-footer">
         <p>Local review workspace · No server-side file storage</p>
-        <a href="/">Lost Assets Division of AASI ↗</a>
+        <Link href="/">Lost Assets Division of AASI ↗</Link>
       </footer>
     </main>
   );

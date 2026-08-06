@@ -2,7 +2,6 @@
 
 import { FormEvent, useState } from "react";
 import Link from "next/link";
-import "./login.css";
 
 export default function LoginPage() {
   const [submitted, setSubmitted] = useState(false);

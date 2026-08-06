@@ -1,5 +1,6 @@
 import { AasiConcierge } from "./AasiConcierge";
 import { AasiContactForm } from "./AasiContactForm";
+import Link from "next/link";
 
 const capabilities = [
   ["Financial compliance", "Contract adherence, billing integrity, and recovery opportunity."],
@@ -192,7 +193,7 @@ export default function AasiAboutPage() {
       <footer className="aasi-footer">
         <a className="aasi-brand" href="#aasi-top"><span className="aasi-brand-mark">A</span><span><strong>AASI</strong><small>Advertising Audit Services International</small></span></a>
         <p>Transparency. Accountability. Value.</p>
-        <div><a href="/">AASI Home</a><span>© {new Date().getFullYear()} AASI, LLC</span></div>
+        <div><Link href="/">AASI Home</Link><span>© {new Date().getFullYear()} AASI, LLC</span></div>
       </footer>
       <AasiConcierge />
     </main>
