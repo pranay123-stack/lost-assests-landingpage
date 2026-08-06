@@ -4,7 +4,16 @@ export const runtime = "edge";
 // This file is regenerated daily by the cron job (scripts/scrape-claimdepot.py)
 // and committed to the repo. On Vercel, the static JSON is served from
 // /public/settlements-data/claimdepot-settlements.json and bundled at build time.
-import settlementsData from "@/public/settlements-data/claimdepot-settlements.json";
+import settlementsDataRaw from "@/public/settlements-data/claimdepot-settlements.json";
+
+interface SettlementDataFile {
+  lastUpdated: string;
+  source: string;
+  total: number;
+  settlements: SettlementData[];
+}
+
+const settlementsData = settlementsDataRaw as unknown as SettlementDataFile;
 
 export interface SettlementData {
   slug: string;
@@ -38,7 +47,7 @@ export async function GET(request: Request) {
     const status = searchParams.get("status");
     const limit = parseInt(searchParams.get("limit") || "50", 10);
 
-    let results = (settlementsData as any).settlements as SettlementData[];
+    let results: SettlementData[] = settlementsData.settlements;
 
     if (category) {
       results = results.filter(
@@ -56,9 +65,9 @@ export async function GET(request: Request) {
     return Response.json({
       ok: true,
       count: results.length,
-      total: (settlementsData as any).total || results.length,
-      lastUpdated: (settlementsData as any).lastUpdated || new Date().toISOString(),
-      source: (settlementsData as any).source || "claimdepot.com",
+      total: settlementsData.total || results.length,
+      lastUpdated: settlementsData.lastUpdated || new Date().toISOString(),
+      source: settlementsData.source || "claimdepot.com",
       data: results,
     });
   } catch (error) {

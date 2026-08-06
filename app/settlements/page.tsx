@@ -153,7 +153,7 @@ export default async function SettlementsPage({
             <select name="category" defaultValue={category || ""}>
               <option value="">All categories</option>
               {categoryOptions.map((cat) => (
-                <option key={cat} value={cat} selected={category === cat}>
+                <option key={cat} value={cat}>
                   {cat}
                 </option>
               ))}
@@ -164,7 +164,7 @@ export default async function SettlementsPage({
             <select name="status" defaultValue={status || ""}>
               <option value="">All statuses</option>
               {statusOptions.map((st) => (
-                <option key={st} value={st} selected={status === st}>
+                <option key={st} value={st}>
                   {st}
                 </option>
               ))}
