@@ -34,9 +34,10 @@ export default function LoginPage() {
       event.currentTarget.reset();
 
       // Redirect after short delay so user sees the success message
-      if (result.redirectUrl) {
+      const redirectUrl = result.redirectUrl;
+      if (redirectUrl) {
         setTimeout(() => {
-          window.location.href = result.redirectUrl;
+          window.location.href = redirectUrl;
         }, 1200);
       }
     } catch (error) {
