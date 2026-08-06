@@ -1,0 +1,203 @@
+/* ===== Login Page Styles ===== */
+
+.login-hero {
+  min-height: 100vh;
+  height: 100svh;
+  position: relative;
+  overflow: hidden;
+  background: var(--deep);
+  color: white;
+  display: grid;
+  place-items: center;
+  padding: clamp(48px, 6vw, 78px);
+}
+
+.login-hero::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(circle at 78% 45%, rgba(18, 83, 83, .42), transparent 32%),
+              linear-gradient(90deg, rgba(6, 24, 31, .45), transparent);
+  pointer-events: none;
+  z-index: 1;
+}
+
+.login-glow {
+  position: absolute;
+  width: 420px;
+  height: 420px;
+  border-radius: 50%;
+  filter: blur(110px);
+  opacity: .18;
+  z-index: 0;
+}
+
+.login-glow.glow-one {
+  background: var(--mint);
+  top: -50px;
+  right: 5%;
+}
+
+.login-glow.glow-two {
+  background: var(--gold);
+  bottom: -50px;
+  left: -10%;
+}
+
+.login-container {
+  position: relative;
+  z-index: 2;
+  max-width: 640px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.login-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  padding: 7px 18px;
+  border: 2px solid rgba(212, 175, 106, .45);
+  border-radius: 36px;
+  background: rgba(6, 24, 31, .75);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  box-shadow: 0 0 0 0 rgba(212, 175, 106, .8),
+              0 0 30px rgba(212, 175, 106, .45),
+              0 0 64px rgba(212, 175, 106, .22);
+  animation: flash-glow 3s ease-in-out 1s infinite;
+  margin-bottom: 24px;
+}
+
+.badge-logo-sm {
+  width: 32px;
+  height: 32px;
+  filter: drop-shadow(0 0 8px rgba(212, 175, 106, .6));
+}
+
+.login-copy {
+  margin-bottom: 36px;
+}
+
+.login-lede {
+  max-width: 580px;
+  margin: 22px 0 0;
+  color: rgba(255, 255, 255, .6);
+  font-size: clamp(15px, 1.25vw, 18px);
+  line-height: 1.7;
+}
+
+.login-form {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.form-field {
+  margin-bottom: 26px;
+}
+
+.form-field label {
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  color: rgba(255, 255, 255, .65);
+  text-transform: uppercase;
+  font: 600 10px/1 var(--font-geist-mono), monospace;
+  letter-spacing: .13em;
+}
+
+.form-field label > span {
+  color: #a1a8a8;
+  font-weight: 400;
+  margin-left: 6px;
+}
+
+.form-field input {
+  width: 100%;
+  border: 0;
+  border-bottom: 1px solid rgba(255, 255, 255, .18);
+  background: transparent;
+  padding: 12px 0;
+  outline: none;
+  color: #fff;
+  font: 14px/1.4 var(--font-geist-sans), sans-serif;
+  transition: border-color .2s;
+}
+
+.form-field input:focus {
+  border-color: var(--gold);
+}
+
+.form-footer {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  margin-top: 8px;
+}
+
+.form-note {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  color: rgba(255, 255, 255, .45);
+  font: 10px/1 var(--font-geist-mono), monospace;
+  letter-spacing: .08em;
+}
+
+.form-status {
+  margin: 0;
+  font-size: 11px;
+  color: #356c5d;
+}
+
+.form-status.error {
+  color: #d96c6c;
+}
+
+.login-success {
+  text-align: center;
+  padding: 60px 0;
+}
+
+.success-icon {
+  width: 64px;
+  height: 64px;
+  margin: 0 auto 18px;
+  border: 2px solid var(--mint);
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  color: var(--mint);
+  font-size: 32px;
+  font-weight: 700;
+  animation: pulse 2s ease-out infinite;
+}
+
+.login-success h3 {
+  margin: 0 0 12px;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.login-success p {
+  color: rgba(255, 255, 255, .55);
+  font-size: 13px;
+  line-height: 1.7;
+  margin-bottom: 28px;
+}
+
+.login-hero .site-header {
+  height: 72px;
+  padding-top: 18px;
+}
+
+.login-hero .brand-mark {
+  width: 38px;
+  height: 38px;
+}
+
+.login-hero .brand-logo {
+  width: 38px;
+  height: 38px;
+}

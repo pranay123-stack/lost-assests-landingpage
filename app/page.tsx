@@ -175,6 +175,7 @@ export default function Home() {
           <a href="#probate">Probate support</a>
           <a href="#about">About us</a>
           <a href="/workspace">Case workspace</a>
+          <a href="/login">Class action claims</a>
           <a className="nav-cta" href="#contact">Start an inquiry <span>↗</span></a>
         </nav>
       </header>
