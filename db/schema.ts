@@ -46,7 +46,7 @@ export const savedSettlements = sqliteTable(
     settlementId: integer("settlement_id")
       .notNull()
       .references(() => settlements.id, { onDelete: "cascade" }),
-    savedAt: text("saved_at").not null().default("now"),
+    savedAt: text("saved_at").notNull().default("now"),
   },
   (table) => ({
     userSettlementIdx: uniqueIndex("saved_settlements_user_settlement_idx").on(
