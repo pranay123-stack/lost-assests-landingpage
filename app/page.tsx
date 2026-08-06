@@ -184,9 +184,13 @@ export default function Home() {
         <div className="hero-glow glow-one" aria-hidden="true" />
         <div className="hero-glow glow-two" aria-hidden="true" />
         <div className="hero-copy">
-          <div className="eyebrow"><span /> Abandoned Funds Recovery Group</div>
+          <div className="hero-badge flashing-badge" role="status" aria-label="Free Class Action Claim Portal — verified by AASI">
+            <img src="/aasi-og.svg" alt="AASI Advertising Audit Services International" className="badge-logo" />
+            <span className="badge-text">FREE CLASS ACTION CLAIM PORTAL</span>
+          </div>
+          <div className="eyebrow"><span /> Abandoned Funds Recovery Group
+          </div>
           <h1>Proprietary Tech<br />for <em>Funds Recovery.</em></h1>
-          <p className="hero-lede">
             Advanced research meets professional rigor. We help identify, verify, and recover overlooked funds with discretion and clarity.
           </p>
           <div className="hero-actions">

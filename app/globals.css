@@ -41,6 +41,83 @@ nav > a:hover { color: white; }
 .glow-one { background: var(--mint); top: 0; right: 5%; }
 .glow-two { background: var(--gold); bottom: -25%; left: -10%; }
 .hero-copy { position: relative; z-index: 3; max-width: 780px; padding-right: 30px; }
+/* ===== Flashing Class Action Claim Portal Badge ===== */
+.hero-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 6px 16px;
+  border: 1.5px solid rgba(212, 175, 106, .5);
+  border-radius: 32px;
+  background: rgba(6, 24, 31, .72);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  box-shadow: 0 0 0 0 rgba(212, 175, 106, .6);
+  animation: flash-glow 3s ease-in-out 2.5s infinite;
+  margin-bottom: 20px;
+}
+
+.badge-logo {
+  width: 26px;
+  height: 26px;
+  filter: drop-shadow(0 0 6px rgba(212, 175, 106, .5));
+}
+
+.badge-text {
+  font: 600 10px/1 var(--font-geist-mono), monospace;
+  letter-spacing: .22em;
+  text-transform: uppercase;
+  color: #fff;
+  white-space: nowrap;
+}
+
+/* Flash animation: border glow pulse + text brightness flicker */
+@keyframes flash-glow {
+  0%, 100% {
+    border-color: rgba(212, 175, 106, .2);
+    box-shadow: 0 0 0 0px rgba(212, 175, 106, .3),
+                0 0 12px rgba(212, 175, 106, .2);
+  }
+  48% {
+    border-color: rgba(130, 222, 197, .55);
+    box-shadow: 0 0 0 8px rgba(130, 222, 197, .18),
+                0 0 18px rgba(130, 222, 197, .35),
+                0 0 32px rgba(212, 175, 106, .22);
+  }
+  50% {
+    border-color: rgba(212, 175, 106, .75);
+    box-shadow: 0 0 0 12px rgba(212, 175, 106, .32),
+                0 0 22px rgba(212, 175, 106, .44);
+  }
+  52% {
+    border-color: rgba(130, 222, 197, .38);
+    box-shadow: 0 0 0 6px rgba(130, 222, 197, .14),
+                0 0 16px rgba(130, 222, 197, .24);
+  }
+}
+
+/* Faster flash pulse for emphasis on the badge itself */
+.flashing-badge {
+  animation: flash-glow 3s ease-in-out 2.5s infinite,
+             badge-pulse 6s linear 1s infinite;
+}
+
+@keyframes badge-pulse {
+  0% { opacity: .72; }
+  50% { opacity: 1; }
+  100% { opacity: .72; }
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  .hero-badge,
+  .flashing-badge {
+    animation: none;
+    border-color: rgba(212, 175, 106, .4) !important;
+    box-shadow: 0 0 0 0 rgba(212, 175, 106, .2) !important;
+  }
+}
+
 .eyebrow { display: flex; align-items: center; gap: 12px; color: var(--gold); text-transform: uppercase; font: 10px/1.2 var(--font-geist-mono), monospace; letter-spacing: .24em; margin-bottom: 28px; }
 .eyebrow > span { width: 28px; height: 1px; background: currentColor; }
 .eyebrow.dark { color: #8a6c38; }
