@@ -41,30 +41,32 @@ nav > a:hover { color: white; }
 .glow-one { background: var(--mint); top: 0; right: 5%; }
 .glow-two { background: var(--gold); bottom: -25%; left: -10%; }
 .hero-copy { position: relative; z-index: 3; max-width: 780px; padding-right: 30px; }
-/* ===== Flashing Class Action Claim Portal Badge ===== */
+/* ===== Flashing Class Action Claim Portal Badge (scaled 1.5x + intense gold glow) ===== */
 .hero-badge {
   display: inline-flex;
   align-items: center;
-  gap: 10px;
-  padding: 6px 16px;
-  border: 1.5px solid rgba(212, 175, 106, .5);
-  border-radius: 32px;
-  background: rgba(6, 24, 31, .72);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
-  box-shadow: 0 0 0 0 rgba(212, 175, 106, .6);
+  gap: 15px;      /* was 10px → 15px (+50%) */
+  padding: 9px 24px;  /* was 6px 16px → 9px 24px (+50%) */
+  border: 2px solid rgba(212, 175, 106, .6);  /* thicker border */
+  border-radius: 40px;
+  background: rgba(6, 24, 31, .8);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  box-shadow: 0 0 0 0 rgba(212, 175, 106, .8),         /* brighter inner glow */
+              0 0 30px rgba(212, 175, 106, .45),        /* constant outer gold glow */
+              0 0 64px rgba(212, 175, 106, .22);       /* wide gold halo */
   animation: flash-glow 3s ease-in-out 2.5s infinite;
-  margin-bottom: 20px;
+  margin-bottom: 28px;  /* was 20px → 28px */
 }
 
 .badge-logo {
-  width: 26px;
-  height: 26px;
-  filter: drop-shadow(0 0 6px rgba(212, 175, 106, .5));
+  width: 39px;   /* was 26px → 39px (+50%) */
+  height: 39px;
+  filter: drop-shadow(0 0 8px rgba(212, 175, 106, .6));
 }
 
 .badge-text {
-  font: 600 10px/1 var(--font-geist-mono), monospace;
+  font: 600 15px/1 var(--font-geist-mono), monospace;  /* was 10px → 15px (+50%) */
   letter-spacing: .22em;
   text-transform: uppercase;
   color: #fff;
@@ -74,25 +76,30 @@ nav > a:hover { color: white; }
 /* Flash animation: border glow pulse + text brightness flicker */
 @keyframes flash-glow {
   0%, 100% {
-    border-color: rgba(212, 175, 106, .2);
-    box-shadow: 0 0 0 0px rgba(212, 175, 106, .3),
-                0 0 12px rgba(212, 175, 106, .2);
+    border-color: rgba(212, 175, 106, .3);
+    box-shadow: 0 0 0 0px rgba(212, 175, 106, .5),
+                0 0 30px rgba(212, 175, 106, .35),
+                0 0 64px rgba(212, 175, 106, .18);
   }
   48% {
-    border-color: rgba(130, 222, 197, .55);
-    box-shadow: 0 0 0 8px rgba(130, 222, 197, .18),
-                0 0 18px rgba(130, 222, 197, .35),
-                0 0 32px rgba(212, 175, 106, .22);
+    border-color: rgba(130, 222, 197, .65);
+    box-shadow: 0 0 0 10px rgba(130, 222, 197, .22),    /* was 8px  → 10px */
+                0 0 22px rgba(130, 222, 197, .42),       /* was 18px → 22px */
+                0 0 42px rgba(130, 222, 197, .25),       /* was 32px → 42px */
+                0 0 64px rgba(212, 175, 106, .28);       /* persistent gold halo */
   }
   50% {
-    border-color: rgba(212, 175, 106, .75);
-    box-shadow: 0 0 0 12px rgba(212, 175, 106, .32),
-                0 0 22px rgba(212, 175, 106, .44);
+    border-color: rgba(212, 175, 106, .85);
+    box-shadow: 0 0 0 16px rgba(212, 175, 106, .38),     /* was 12px → 16px */
+                0 0 28px rgba(212, 175, 106, .52),       /* was 22px → 28px */
+                0 0 48px rgba(212, 175, 106, .32),       /* was 32px → 48px */
+                0 0 80px rgba(212, 175, 106, .18);       /* wide gold flare */
   }
   52% {
-    border-color: rgba(130, 222, 197, .38);
-    box-shadow: 0 0 0 6px rgba(130, 222, 197, .14),
-                0 0 16px rgba(130, 222, 197, .24);
+    border-color: rgba(130, 222, 197, .45);
+    box-shadow: 0 0 0 8px rgba(130, 222, 197, .16),      /* was 6px  → 8px */
+                0 0 18px rgba(130, 222, 197, .26),       /* was 16px → 18px */
+                0 0 64px rgba(212, 175, 106, .22);
   }
 }
 
@@ -113,8 +120,8 @@ nav > a:hover { color: white; }
   .hero-badge,
   .flashing-badge {
     animation: none;
-    border-color: rgba(212, 175, 106, .4) !important;
-    box-shadow: 0 0 0 0 rgba(212, 175, 106, .2) !important;
+    border-color: rgba(212, 175, 106, .5) !important;
+    box-shadow: 0 0 0 0 rgba(212, 175, 106, .3) !important;
   }
 }
 
