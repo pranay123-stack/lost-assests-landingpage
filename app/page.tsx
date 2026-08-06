@@ -191,6 +191,7 @@ export default function Home() {
           <div className="eyebrow"><span /> Abandoned Funds Recovery Group
           </div>
           <h1>Proprietary Tech<br />for <em>Funds Recovery.</em></h1>
+          <p className="hero-lede">
             Advanced research meets professional rigor. We help identify, verify, and recover overlooked funds with discretion and clarity.
           </p>
           <div className="hero-actions">
