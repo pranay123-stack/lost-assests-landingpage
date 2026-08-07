@@ -30,7 +30,7 @@ export default function LoginPage() {
         throw new Error(result.message || "We could not create your access.");
 
       setSubmitted(true);
-      setFormMessage("Access granted. Redirecting to your class action settlements…");
+      setFormMessage("Your request has been sent. You have access to the settlement database…");
       event.currentTarget.reset();
 
       // Redirect after short delay so user sees the success message
@@ -117,7 +117,7 @@ export default function LoginPage() {
                   <span>↗</span> No spam. Unsubscribe anytime. Your data is held privately and never sold.
                 </p>
                 <button className="button button-primary" type="submit" disabled={submitting}>
-                  {submitting ? "Granting access…" : <>Enter portal <span>↗</span></>}
+                  {submitting ? "Sending…" : <>Send request <span>↗</span></>}
                 </button>
               </div>
               {(submitted || formMessage) && (
