@@ -106,9 +106,6 @@ export default function LoginPage() {
               <div className="success-icon" aria-hidden="true">✓</div>
               <h3>Access Granted</h3>
               <p>{formMessage}</p>
-              <Link href="/settlements" className="button button-primary">
-                View settlements <span>↗</span>
-              </Link>
             </div>
           ) : (
             <form className="login-form" onSubmit={handleSubmit}>
@@ -127,8 +124,8 @@ export default function LoginPage() {
                   <span>↗</span> No spam. Unsubscribe anytime. Your data is held privately and never sold.
                 </p>
                 <button className="button button-primary" type="submit" disabled={submitting}>
-                  {submitting ? "Sending…" : <>Send request <span>↗</span></>}
-                </button>
+                  {submitting ? "Submitting…" : <>Submit <span>↗</span></>}</button>
+                <button type="button" className="button button-secondary" onClick={() => window.location.href = '/settlements'}>Sign In</button>
               </div>
               {(submitted || formMessage) && (
                 <p className={`form-status ${formError ? "error" : ""}`} role="status">
