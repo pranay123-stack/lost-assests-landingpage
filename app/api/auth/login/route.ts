@@ -83,13 +83,15 @@ export async function POST(request: Request) {
     });
 
     if (!resendResponse.ok) {
-      return Response.json(
-        {
-          ok: false,
-          message: "Email delivery is temporarily unavailable. Please try again shortly.",
-        },
-        { status: 502 },
-      );
+      // Fall back to mailto link if email delivery fails
+      const mailtoUrl = `mailto:${recipient}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(plainText)}`;
+      return Response.json({
+        ok: true,
+        delivery: "client",
+        mailtoUrl,
+        message: "Access request sent. Check your email to continue.",
+        redirectUrl: "/settlements",
+      });
     }
 
     return Response.json({

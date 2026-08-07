@@ -17,23 +17,30 @@ interface SettlementData {
 
 import Link from "next/link";
 
+import settlementsRaw from "@/public/settlements-data/claimdepot-settlements.json";
+
 async function getSettlements(category?: string, status?: string) {
-  // Use relative API path (works in both local dev and production)
-  const params = new URLSearchParams();
-  if (category) params.set("category", category);
-  if (status) params.set("status", status);
+  const data = (settlementsRaw as { settlements: SettlementData[]; lastUpdated: string; total: number }).settlements;
 
-  const url = `/api/settlements?${params.toString()}`;
+  let results = data;
+  if (category) {
+    results = results.filter(
+      (s) => s.category?.toLowerCase() === category.toLowerCase(),
+    );
+  }
+  if (status) {
+    results = results.filter(
+      (s) => s.status?.toLowerCase() === status.toLowerCase(),
+    );
+  }
 
-  const res = await fetch(url, { next: { revalidate: 60 } });
-  if (!res.ok) throw new Error("Failed to fetch settlements");
-  return res.json() as Promise<{
-    ok: boolean;
-    count: number;
-    total: number;
-    lastUpdated: string;
-    settlements: SettlementData[];
-  }>;
+  return {
+    ok: true,
+    count: results.length,
+    total: data.length,
+    lastUpdated: (settlementsRaw as { lastUpdated: string }).lastUpdated,
+    settlements: results,
+  };
 }
 
 const STATUS_COLORS: Record<string, string> = {
