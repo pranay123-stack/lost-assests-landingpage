@@ -356,6 +356,38 @@ export default function Home() {
         </div>
       </section>
 
+      <section className="stats-section section" id="stats">
+        <div className="stats-panel">
+          <div className="eyebrow dark"><span /> Verified recovery intelligence</div>
+          <h2>West Coast unclaimed assets.<br /><em>$17.2B safeguarded.</em></h2>
+          <p className="stats-lede">California&apos;s State Controller safeguards approximately $15B in unclaimed property — including $5.3B in Los Angeles County alone. Combined with an estimated $2.1T in lost 401(k) accounts across the West Coast, our research tracks over 84 million individual properties for near 39 million potential owners.</p>
+          <div className="stats-grid">
+            <div className="stat-card">
+              <strong className="stat-value">$15B+</strong>
+              <small className="stat-label">CA unclaimed property</small>
+            </div>
+            <div className="stat-card">
+              <strong className="stat-value">$5.3B</strong>
+              <small className="stat-label">Los Angeles County alone</small>
+            </div>
+            <div className="stat-card">
+              <strong className="stat-value">$2.1T</strong>
+              <small className="stat-label">Forgotten 401(k) assets</small>
+            </div>
+            <div className="stat-card">
+              <strong className="stat-value">31.9M</strong>
+              <small className="stat-label">Lost accounts tracked</small>
+            </div>
+          </div>
+          <div className="founder-statement">
+            <blockquote>
+              <p>&ldquo;Over the last 30 years, our Founder and CEO has audited more than $3 billion in corporate marketing budgets — recovering overlooked funds through professional research, rigorous verification, and discreet coordination.&rdquo;</p>
+              <footer>&mdash; Pankja Sewal, Founder &amp; CEO</footer>
+            </blockquote>
+          </div>
+        </div>
+      </section>
+
       <section className="coverage-section section" id="search-areas">
         <div className="coverage-heading">
           <div>
@@ -428,7 +460,19 @@ export default function Home() {
 
       <footer>
         <a className="brand footer-brand" href="#top">
-          <BrandLogo />
+          <span className="brand-mark" aria-hidden="true">
+            <svg className="brand-logo" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <defs>
+                <linearGradient id="afgr-border-footer" x1="0%" y1="0%" x2="100%" y2="100%">
+                  <stop offset="0%" stopColor="#D4AF6B" />
+                  <stop offset="100%" stopColor="#FFD700" />
+                </linearGradient>
+              </defs>
+              <path d="M60 6 L94 26 V58 C94 76 82 92 60 102 C38 92 26 76 26 58 V26 Z" fill="#f4f2eb" stroke="url(#afgr-border-footer)" strokeWidth="2.5" strokeLinejoin="round" />
+              <text x="60" y="72" textAnchor="middle" fontFamily="Georgia,serif" fontWeight="600" fontSize="32" fill="#071c24">AF</text>
+              <text x="60" y="88" textAnchor="middle" fontFamily="Georgia,serif" fontWeight="600" fontSize="14" fill="#8a6c3b" letterSpacing="2">RG</text>
+            </svg>
+          </span>
           <span className="brand-copy"><strong>Abandoned Funds</strong><span>Recovery Group</span></span>
         </a>
         <p>Proprietary tech. Professional judgment. Discreet recovery.</p>

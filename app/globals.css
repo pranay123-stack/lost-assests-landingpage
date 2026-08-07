@@ -246,7 +246,16 @@ h1 em, h2 em { font-family: var(--font-display), Georgia, serif; color: var(--go
 .principle strong { font-size: 12px; font-weight: 450; color: rgba(255,255,255,.75); }
 .principle i { color: var(--mint); font-style: normal; font-size: 10px; }
 
-.coverage-section { background: #e8e3d8; border-top: 1px solid var(--line); }
+.stats-section { background: var(--ink); color: var(--paper); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+.stats-panel { max-width: 720px; }
+.stats-lede { margin: 28px 0 36px; color: rgba(244,242,235,.64); font-size: clamp(16px,1.25vw,20px); line-height: 1.7; }
+.stats-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 24px; margin-bottom: 42px; }
+.stat-card { background: rgba(13,62,71,.4); border: 1px solid var(--line); border-radius: 6px; padding: 24px 16px; text-align: center; }
+.stat-value { display: block; font-size: clamp(24px,2vw,32px); font-weight: 700; color: var(--gold); font-family: var(--font-geist-mono), monospace; }
+.stat-label { display: block; font: 600 10px/1 var(--font-geist-mono), monospace; text-transform: uppercase; letter-spacing: .15em; color: rgba(244,242,235,.58); }
+.founder-statement blockquote { margin: 0; padding: 28px 32px; background: rgba(212,175,106,.06); border-left: 3px solid var(--gold); }
+.founder-statement p { margin: 0 0 8px; font-style: italic; color: rgba(244,242,235,.82); line-height: 1.9; }
+.founder-statement footer { font: 400 12px var(--font-geist-mono), monospace; color: var(--gold); }
 .coverage-heading { display: grid; grid-template-columns: .9fr 1.1fr; gap: 8vw; align-items: end; margin-bottom: 62px; }
 .coverage-heading h2 { margin: 0; font-size: clamp(48px, 5.5vw, 82px); line-height: .94; }
 .coverage-intro > p { margin: 0; max-width: 720px; color: #596568; font-size: 14px; line-height: 1.8; }
@@ -303,7 +312,9 @@ footer > p { text-align: center; color: rgba(255,255,255,.32); font: 10.6px/1.5 
   .hero-copy { padding-right: 0; }
   .hero-visual { position: absolute; width: 520px; height: 520px; right: -180px; bottom: 80px; opacity: .55; }
   .radar { width: 520px; }
-  .approach, .contact-section { grid-template-columns: 1fr; }
+  .approach, .contact-section, .stats-grid { grid-template-columns: 1fr; }
+  .stats-grid { gap: 16px; }
+  .stat-card { padding: 20px 12px; }
   .probate-heading, .probate-workflow { grid-template-columns: 1fr; }
   .probate-lede { border-left: 0; border-top: 1px solid rgba(7,28,36,.18); padding: 28px 0 0; }
   .aasi-panel { grid-template-columns: .4fr 1fr; }
