@@ -54,11 +54,21 @@ export default function LoginPage() {
       <header className="site-header">
         <Link className="brand" href="/" aria-label="Abandoned Funds Recovery Group home">
           <span className="brand-mark" aria-hidden="true">
-            <svg className="brand-logo" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M24 4 40 13v22L24 44 8 35V13L24 4Z" stroke="currentColor" strokeWidth="1.5" />
-              <path d="M15 33 22.3 15h3.4L33 33M18.1 26h11.8" stroke="currentColor" strokeWidth="2.25" strokeLinecap="round" strokeLinejoin="round" />
-              <path d="M29 16.5h6.5M29 21.5h5" stroke="var(--mint)" strokeWidth="1.7" strokeLinecap="round" />
-              <circle cx="36.5" cy="12" r="2.5" fill="var(--mint)" />
+            <svg className="brand-logo" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <defs>
+                <linearGradient id="afgr-shield-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+                  <stop offset="0%" stopColor="#f4f2eb" />
+                  <stop offset="50%" stopColor="#ffffff" />
+                  <stop offset="100%" stopColor="#e2e0db" />
+                </linearGradient>
+                <linearGradient id="afgr-border-gold" x1="0%" y1="0%" x2="100%" y2="100%">
+                  <stop offset="0%" stopColor="#D4AF6B" />
+                  <stop offset="100%" stopColor="#FFD700" />
+                </linearGradient>
+              </defs>
+              <path d="M60 6 L94 26 V58 C94 76 82 92 60 102 C38 92 26 76 26 58 V26 Z" fill="url(#afgr-shield-gradient)" stroke="url(#afgr-border-gold)" strokeWidth="2.5" strokeLinejoin="round" />
+              <text x="60" y="72" textAnchor="middle" fontFamily="Georgia,serif" fontWeight="600" fontSize="32" fill="#071c24">AF</text>
+              <text x="60" y="88" textAnchor="middle" fontFamily="Georgia,serif" fontWeight="600" fontSize="14" fill="#8a6c3b" letterSpacing="2">RG</text>
             </svg>
           </span>
           <span className="brand-copy">
