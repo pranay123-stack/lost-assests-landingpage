@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-06T21:54:54.209488+00:00",
+  "lastUpdated": "2026-08-07T03:11:11.329617+00:00",
   "source": "claimdepot.com",
   "total": 100,
   "settlements": [
@@ -23,7 +23,7 @@
       "finalApprovalHearing": "September 22, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:42.868602+00:00"
+      "lastSeenAt": "2026-08-07T03:09:36.754958+00:00"
     },
     {
       "slug": "dfa-data-settlement",
@@ -45,7 +45,7 @@
       "finalApprovalHearing": "October 26, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:42.979799+00:00"
+      "lastSeenAt": "2026-08-07T03:09:37.638662+00:00"
     },
     {
       "slug": "louisiana-fees-settlement",
@@ -67,7 +67,7 @@
       "finalApprovalHearing": "September 17, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:43.097273+00:00"
+      "lastSeenAt": "2026-08-07T03:09:41.000020+00:00"
     },
     {
       "slug": "miller-text-settlement",
@@ -79,7 +79,7 @@
       "publishedAt": "Wed, 05 Aug 2026 19:24:52 GMT",
       "status": "Open for Claims",
       "deadline": "October 13, 2026",
-      "daysLeft": 68,
+      "daysLeft": 67,
       "category": "Text Messages",
       "settlementAmount": "$30,000",
       "caseNumber": "2:25-cv-459",
@@ -90,7 +90,7 @@
       "finalApprovalHearing": "November 17, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:43.213570+00:00"
+      "lastSeenAt": "2026-08-07T03:09:41.222785+00:00"
     },
     {
       "slug": "wv-hospitals-class-action",
@@ -102,7 +102,7 @@
       "publishedAt": "Wed, 05 Aug 2026 18:22:08 GMT",
       "status": "Open for Claims",
       "deadline": "September 22, 2026",
-      "daysLeft": 47,
+      "daysLeft": 46,
       "category": "Deceptive Pricing",
       "caseNumber": "15-C-530; 14-C-829",
       "caseTitle": "Russell G. Binder v. The Charles Town General Hospital, d/b/a Jefferson Medical Center, City Hospital Inc., d/b/a Berkeley Medical Center, West Virginia Univ. Hospital Inc., West Virginia Univ. Hospital–East Inc., Action No. 15-C-530, Circuit Court of Berkley County, West Virginia; James F. Smith and John E. Smith, as Co-Executors of the Estate of Donald F. Smith v. Camden-Clark Memorial Hospital Corp., Action No. 14-C-829, Circuit Court of Wood County, West Virginia",
@@ -111,7 +111,7 @@
       "fairnessHearing": "April 20, 2027",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:43.331785+00:00"
+      "lastSeenAt": "2026-08-07T03:09:43.567432+00:00"
     },
     {
       "slug": "anixter-data-settlement",
@@ -123,7 +123,7 @@
       "publishedAt": "Wed, 05 Aug 2026 16:14:10 GMT",
       "status": "Open for Claims",
       "deadline": "October 19, 2026",
-      "daysLeft": 74,
+      "daysLeft": 73,
       "category": "Data Breach",
       "caseNumber": "2025LA000252",
       "caseTitle": "Cardenas v. Lester and Rosalie Anixter Center",
@@ -133,7 +133,7 @@
       "finalApprovalHearing": "November 23, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:43.454623+00:00"
+      "lastSeenAt": "2026-08-07T03:09:45.189037+00:00"
     },
     {
       "slug": "crossroads-data-settlement",
@@ -145,7 +145,7 @@
       "publishedAt": "Wed, 05 Aug 2026 15:13:34 GMT",
       "status": "Open for Claims",
       "deadline": "October 13, 2026",
-      "daysLeft": 68,
+      "daysLeft": 67,
       "category": "Data Breach",
       "settlementAmount": "$600,000",
       "caseNumber": "25CV479119",
@@ -156,7 +156,7 @@
       "finalApprovalHearing": "January 13, 2027",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:43.581683+00:00"
+      "lastSeenAt": "2026-08-07T03:09:46.019066+00:00"
     },
     {
       "slug": "proton-beam-radiation-therapy-litigation",
@@ -168,7 +168,7 @@
       "publishedAt": "Tue, 04 Aug 2026 20:59:01 GMT",
       "status": "Open for Claims",
       "deadline": "October 10, 2026",
-      "daysLeft": 65,
+      "daysLeft": 64,
       "category": "Insurance",
       "settlementAmount": "$3,625,000",
       "caseNumber": "3:23-cv-00541",
@@ -179,7 +179,7 @@
       "finalApprovalHearing": "August 19, 2026",
       "proofRequired": "Proof Required",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:43.721276+00:00"
+      "lastSeenAt": "2026-08-07T03:09:47.085006+00:00"
     },
     {
       "slug": "detroit-water-settlement",
@@ -191,7 +191,7 @@
       "publishedAt": "Tue, 04 Aug 2026 19:56:44 GMT",
       "status": "Open for Claims",
       "deadline": "August 26, 2026",
-      "daysLeft": 20,
+      "daysLeft": 19,
       "category": "Deceptive Pricing",
       "settlementAmount": "$4,450,000",
       "caseNumber": "23-015314-CB",
@@ -201,7 +201,7 @@
       "fairnessHearing": "September 25, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:43.875155+00:00"
+      "lastSeenAt": "2026-08-07T03:09:48.004007+00:00"
     },
     {
       "slug": "mary-black-class-action",
@@ -213,7 +213,7 @@
       "publishedAt": "Tue, 04 Aug 2026 18:45:04 GMT",
       "status": "Open for Claims",
       "deadline": "August 31, 2026",
-      "daysLeft": 25,
+      "daysLeft": 24,
       "category": "Insurance",
       "settlementAmount": "$2,250,000",
       "caseNumber": "2017-CP-42-00219",
@@ -222,7 +222,7 @@
       "fairnessHearing": "October 27, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:43.974138+00:00"
+      "lastSeenAt": "2026-08-07T03:09:49.036103+00:00"
     },
     {
       "slug": "zdi-class-action-settlement",
@@ -234,7 +234,7 @@
       "publishedAt": "Tue, 04 Aug 2026 16:44:44 GMT",
       "status": "Open for Claims",
       "deadline": "September 28, 2026",
-      "daysLeft": 53,
+      "daysLeft": 52,
       "category": "Labor",
       "settlementAmount": "$2,444,000",
       "caseNumber": "24-2-24820-0 SEA",
@@ -245,7 +245,7 @@
       "finalApprovalHearing": "October 23, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:44.077908+00:00"
+      "lastSeenAt": "2026-08-07T03:09:49.268895+00:00"
     },
     {
       "slug": "video-interview-bipa-settlement",
@@ -257,7 +257,7 @@
       "publishedAt": "Tue, 04 Aug 2026 15:42:58 GMT",
       "status": "Open for Claims",
       "deadline": "October 13, 2026",
-      "daysLeft": 68,
+      "daysLeft": 67,
       "category": "Privacy",
       "settlementAmount": "$3,750,000",
       "caseNumber": "2026LA00000141",
@@ -268,7 +268,7 @@
       "finalApprovalHearing": "October 28, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:44.183622+00:00"
+      "lastSeenAt": "2026-08-07T03:09:50.123725+00:00"
     },
     {
       "slug": "seagate-securities-litigation",
@@ -280,7 +280,7 @@
       "publishedAt": "Tue, 04 Aug 2026 14:40:29 GMT",
       "status": "Open for Claims",
       "deadline": "October 19, 2026",
-      "daysLeft": 74,
+      "daysLeft": 73,
       "category": "Securities",
       "settlementAmount": "$175,000,000",
       "caseNumber": "3:23-cv-03431-RFL",
@@ -290,7 +290,7 @@
       "fairnessHearing": "November 17, 2026",
       "proofRequired": "Proof Required",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:44.276248+00:00"
+      "lastSeenAt": "2026-08-07T03:09:50.351822+00:00"
     },
     {
       "slug": "arrowhead-data-security-settlement",
@@ -302,7 +302,7 @@
       "publishedAt": "Mon, 03 Aug 2026 23:09:50 GMT",
       "status": "Open for Claims",
       "deadline": "October 8, 2026",
-      "daysLeft": 63,
+      "daysLeft": 62,
       "category": "Data Breach",
       "caseNumber": "69DU-CV-24-184",
       "caseTitle": "In re Arrowhead Regional Computing Consortium Data Breach Litigation",
@@ -312,7 +312,7 @@
       "finalApprovalHearing": "October 12, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:44.382081+00:00"
+      "lastSeenAt": "2026-08-07T03:09:51.252685+00:00"
     },
     {
       "slug": "pdl-settlement",
@@ -324,7 +324,7 @@
       "publishedAt": "Mon, 03 Aug 2026 19:47:36 GMT",
       "status": "Open for Claims",
       "deadline": "September 29, 2026",
-      "daysLeft": 54,
+      "daysLeft": 53,
       "category": "Text Messages",
       "settlementAmount": "$6,362,167",
       "caseNumber": "3:25-cv-09533-RFL",
@@ -335,7 +335,7 @@
       "finalApprovalHearing": "November 17, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:44.482459+00:00"
+      "lastSeenAt": "2026-08-07T03:09:51.421223+00:00"
     },
     {
       "slug": "hain-celestial-securities-settlement",
@@ -347,7 +347,7 @@
       "publishedAt": "Mon, 03 Aug 2026 18:47:00 GMT",
       "status": "Open for Claims",
       "deadline": "October 13, 2026",
-      "daysLeft": 68,
+      "daysLeft": 67,
       "category": "Securities",
       "settlementAmount": "$35,000,000",
       "caseNumber": "2:16-cv-04581-JS-LGD",
@@ -357,7 +357,7 @@
       "fairnessHearing": "October 28, 2026",
       "proofRequired": "Proof Required",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:44.615782+00:00"
+      "lastSeenAt": "2026-08-07T03:09:53.088102+00:00"
     },
     {
       "slug": "metropolis-parking-settlement",
@@ -369,7 +369,7 @@
       "publishedAt": "Mon, 03 Aug 2026 17:46:20 GMT",
       "status": "Open for Claims",
       "deadline": "October 9, 2026",
-      "daysLeft": 64,
+      "daysLeft": 63,
       "category": "Civil rights",
       "settlementAmount": "$6,500,000",
       "caseNumber": "26-0028-III",
@@ -380,7 +380,7 @@
       "finalApprovalHearing": "January 9, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:44.727324+00:00"
+      "lastSeenAt": "2026-08-07T03:09:54.046228+00:00"
     },
     {
       "slug": "doxim-data-security-settlement",
@@ -392,7 +392,7 @@
       "publishedAt": "Mon, 03 Aug 2026 16:46:45 GMT",
       "status": "Open for Claims",
       "deadline": "October 13, 2026",
-      "daysLeft": 68,
+      "daysLeft": 67,
       "category": "Data Breach",
       "settlementAmount": "$5,500,000",
       "caseNumber": "2:24-cv-11550",
@@ -403,7 +403,7 @@
       "finalApprovalHearing": "October 28, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:44.828985+00:00"
+      "lastSeenAt": "2026-08-07T03:09:55.044035+00:00"
     },
     {
       "slug": "irhythm-securities-litigation",
@@ -415,7 +415,7 @@
       "publishedAt": "Mon, 03 Aug 2026 15:45:58 GMT",
       "status": "Open for Claims",
       "deadline": "October 1, 2026",
-      "daysLeft": 56,
+      "daysLeft": 55,
       "category": "Securities",
       "settlementAmount": "$45,000,000",
       "caseNumber": "3:24-cv-706-JSC",
@@ -425,7 +425,7 @@
       "fairnessHearing": "November 5, 2026",
       "proofRequired": "Proof Required",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:44.942386+00:00"
+      "lastSeenAt": "2026-08-07T03:09:55.991201+00:00"
     },
     {
       "slug": "2026-providence-401k-settlement",
@@ -445,7 +445,7 @@
       "fairnessHearing": "October 20, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:45.053027+00:00"
+      "lastSeenAt": "2026-08-07T03:09:57.141490+00:00"
     },
     {
       "slug": "money-source-tcpa-class-action",
@@ -466,7 +466,7 @@
       "finalApprovalHearing": "November 16, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:45.161853+00:00"
+      "lastSeenAt": "2026-08-07T03:09:58.175156+00:00"
     },
     {
       "slug": "eisner-data-settlement",
@@ -478,7 +478,7 @@
       "publishedAt": "Fri, 31 Jul 2026 17:49:42 GMT",
       "status": "Open for Claims",
       "deadline": "October 8, 2026",
-      "daysLeft": 63,
+      "daysLeft": 62,
       "category": "Data Breach",
       "settlementAmount": "$1,050,000",
       "caseNumber": "0:25-cv-01409-LMP-DTS",
@@ -489,7 +489,7 @@
       "finalApprovalHearing": "October 12, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:45.279513+00:00"
+      "lastSeenAt": "2026-08-07T03:09:59.790396+00:00"
     },
     {
       "slug": "oreilly-rnd-settlement",
@@ -501,7 +501,7 @@
       "publishedAt": "Fri, 31 Jul 2026 16:48:05 GMT",
       "status": "Open for Claims",
       "deadline": "September 28, 2026",
-      "daysLeft": 53,
+      "daysLeft": 52,
       "category": "Text Messages",
       "settlementAmount": "$18,842,577",
       "caseNumber": "2026CH000016",
@@ -512,7 +512,7 @@
       "finalApprovalHearing": "November 5, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:45.391429+00:00"
+      "lastSeenAt": "2026-08-07T03:10:00.059090+00:00"
     },
     {
       "slug": "twitter-acquisition-litigation",
@@ -524,7 +524,7 @@
       "publishedAt": "Fri, 31 Jul 2026 15:44:01 GMT",
       "status": "Open for Claims",
       "deadline": "November 24, 2026",
-      "daysLeft": 110,
+      "daysLeft": 109,
       "category": "Securities",
       "caseNumber": "3:22-CV-05937-CRB",
       "caseTitle": "Pampena v. Musk",
@@ -532,7 +532,7 @@
       "administrator": "Epiq Global",
       "proofRequired": "Proof Required",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:45.505277+00:00"
+      "lastSeenAt": "2026-08-07T03:10:01.103665+00:00"
     },
     {
       "slug": "bradford-scott-data-settlement",
@@ -544,7 +544,7 @@
       "publishedAt": "Thu, 30 Jul 2026 20:26:02 GMT",
       "status": "Open for Claims",
       "deadline": "October 7, 2026",
-      "daysLeft": 62,
+      "daysLeft": 61,
       "category": "Data Breach",
       "settlementAmount": "$2,393,888.25",
       "caseNumber": "1:24-CV-00117-HAB-ALT",
@@ -555,7 +555,7 @@
       "finalApprovalHearing": "October 15, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:45.621738+00:00"
+      "lastSeenAt": "2026-08-07T03:10:02.008734+00:00"
     },
     {
       "slug": "main-engine-water-pump-settlement",
@@ -567,7 +567,7 @@
       "publishedAt": "Thu, 30 Jul 2026 19:13:39 GMT",
       "status": "Open for Claims",
       "deadline": "October 5, 2026",
-      "daysLeft": 60,
+      "daysLeft": 59,
       "category": "Automotive",
       "caseNumber": "2:25-cv-01540-SDW-JBC",
       "caseTitle": "Jessica Briggs, et al. v. Volkswagen Group of America Inc., et al.",
@@ -576,7 +576,7 @@
       "fairnessHearing": "September 10, 2026",
       "proofRequired": "Proof Required",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:45.775370+00:00"
+      "lastSeenAt": "2026-08-07T03:10:03.918659+00:00"
     },
     {
       "slug": "shi-settlement",
@@ -588,7 +588,7 @@
       "publishedAt": "Thu, 30 Jul 2026 18:13:33 GMT",
       "status": "Open for Claims",
       "deadline": "September 25, 2026",
-      "daysLeft": 50,
+      "daysLeft": 49,
       "category": "Labor",
       "settlementAmount": "$516,000",
       "caseNumber": "25-2-11810-0 KNT",
@@ -599,7 +599,7 @@
       "finalApprovalHearing": "January 8, 2027",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:45.892062+00:00"
+      "lastSeenAt": "2026-08-07T03:10:04.911156+00:00"
     },
     {
       "slug": "cinner-frca-class-action",
@@ -611,7 +611,7 @@
       "publishedAt": "Thu, 30 Jul 2026 17:12:45 GMT",
       "status": "Open for Claims",
       "deadline": "September 29, 2026",
-      "daysLeft": 54,
+      "daysLeft": 53,
       "category": "Fair Credit Reporting",
       "settlementAmount": "$2,400,000",
       "caseNumber": "2:23-CV-04531-JMY",
@@ -622,7 +622,7 @@
       "finalApprovalHearing": "November 5, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:46.008546+00:00"
+      "lastSeenAt": "2026-08-07T03:10:05.789636+00:00"
     },
     {
       "slug": "onepoint-settlement",
@@ -634,7 +634,7 @@
       "publishedAt": "Thu, 30 Jul 2026 16:08:33 GMT",
       "status": "Open for Claims",
       "deadline": "October 8, 2026",
-      "daysLeft": 63,
+      "daysLeft": 62,
       "category": "Data Breach",
       "settlementAmount": "$2,115,000",
       "caseNumber": "3:24-cv-00649-RGJ",
@@ -645,7 +645,7 @@
       "finalApprovalHearing": "September 23, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:46.127328+00:00"
+      "lastSeenAt": "2026-08-07T03:10:06.647818+00:00"
     },
     {
       "slug": "epoa-settlement-pbl",
@@ -657,7 +657,7 @@
       "publishedAt": "Thu, 30 Jul 2026 15:07:28 GMT",
       "status": "Open for Claims",
       "deadline": "September 28, 2026",
-      "daysLeft": 53,
+      "daysLeft": 52,
       "category": "Labor",
       "settlementAmount": "$362,500",
       "caseNumber": "25-2-21566-1 SEA",
@@ -668,7 +668,7 @@
       "finalApprovalHearing": "November 13, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:46.233556+00:00"
+      "lastSeenAt": "2026-08-07T03:10:07.528650+00:00"
     },
     {
       "slug": "rr-eposa-settlement",
@@ -680,7 +680,7 @@
       "publishedAt": "Wed, 29 Jul 2026 19:19:37 GMT",
       "status": "Open for Claims",
       "deadline": "September 25, 2026",
-      "daysLeft": 50,
+      "daysLeft": 49,
       "category": "Labor",
       "settlementAmount": "$1,674,500",
       "caseNumber": "24-2-01225-34",
@@ -691,7 +691,7 @@
       "finalApprovalHearing": "January 29, 2027",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:46.338230+00:00"
+      "lastSeenAt": "2026-08-07T03:10:08.501159+00:00"
     },
     {
       "slug": "speed-control-dial-settlement",
@@ -703,7 +703,7 @@
       "publishedAt": "Wed, 29 Jul 2026 17:37:37 GMT",
       "status": "Open for Claims",
       "deadline": "August 31, 2026",
-      "daysLeft": 25,
+      "daysLeft": 24,
       "category": "Product Liability",
       "settlementAmount": "$4,100,000",
       "caseNumber": "2:25-cv-2080",
@@ -714,7 +714,7 @@
       "finalApprovalHearing": "October 29, 2026",
       "proofRequired": "Proof Required",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:46.445188+00:00"
+      "lastSeenAt": "2026-08-07T03:10:09.725777+00:00"
     },
     {
       "slug": "public-partnerships-settlement",
@@ -734,7 +734,7 @@
       "fairnessHearing": "November 10, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:46.540950+00:00"
+      "lastSeenAt": "2026-08-07T03:10:11.425451+00:00"
     },
     {
       "slug": "fbc-data-settlement",
@@ -746,7 +746,7 @@
       "publishedAt": "Wed, 29 Jul 2026 15:28:51 GMT",
       "status": "Open for Claims",
       "deadline": "September 30, 2026",
-      "daysLeft": 55,
+      "daysLeft": 54,
       "category": "Data Breach",
       "caseNumber": "45D01-2509-CE-62",
       "caseTitle": "Kramer v. First Baptist Church of Hammond, Indiana Inc.",
@@ -756,7 +756,7 @@
       "finalApprovalHearing": "November 30, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:46.637724+00:00"
+      "lastSeenAt": "2026-08-07T03:10:12.341269+00:00"
     },
     {
       "slug": "smith-and-nephew-erisa",
@@ -776,7 +776,7 @@
       "fairnessHearing": "September 18, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:46.728994+00:00"
+      "lastSeenAt": "2026-08-07T03:10:13.530594+00:00"
     },
     {
       "slug": "ba-inc-settlement",
@@ -797,7 +797,7 @@
       "finalApprovalHearing": "September 25, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:46.840306+00:00"
+      "lastSeenAt": "2026-08-07T03:10:15.878419+00:00"
     },
     {
       "slug": "cpfm-settlement",
@@ -809,7 +809,7 @@
       "publishedAt": "Tue, 28 Jul 2026 19:31:11 GMT",
       "status": "Open for Claims",
       "deadline": "September 30, 2026",
-      "daysLeft": 55,
+      "daysLeft": 54,
       "category": "Data Breach",
       "settlementAmount": "$1,000,000",
       "caseNumber": "4:24-CV-00704-SRB",
@@ -820,7 +820,7 @@
       "finalApprovalHearing": "September 29, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:46.955352+00:00"
+      "lastSeenAt": "2026-08-07T03:10:16.884667+00:00"
     },
     {
       "slug": "hcf-data-settlement",
@@ -832,7 +832,7 @@
       "publishedAt": "Tue, 28 Jul 2026 17:43:27 GMT",
       "status": "Open for Claims",
       "deadline": "September 29, 2026",
-      "daysLeft": 54,
+      "daysLeft": 53,
       "category": "Data Breach",
       "caseNumber": "CV 2025 0019",
       "caseTitle": "Bruce, et al. v. HCF Management Inc., et al.",
@@ -842,7 +842,7 @@
       "finalApprovalHearing": "November 30, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:47.058746+00:00"
+      "lastSeenAt": "2026-08-07T03:10:17.831766+00:00"
     },
     {
       "slug": "ntn-postcard-settlement",
@@ -854,7 +854,7 @@
       "publishedAt": "Tue, 28 Jul 2026 16:39:30 GMT",
       "status": "Open for Claims",
       "deadline": "September 22, 2026",
-      "daysLeft": 47,
+      "daysLeft": 46,
       "category": "Fair Credit Reporting",
       "settlementAmount": "$1,625,000",
       "caseNumber": "2:23-cv-03545-MCA-LDW",
@@ -865,7 +865,7 @@
       "finalApprovalHearing": "December 8, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:47.166763+00:00"
+      "lastSeenAt": "2026-08-07T03:10:18.895483+00:00"
     },
     {
       "slug": "central-transport-settlement",
@@ -877,7 +877,7 @@
       "publishedAt": "Tue, 28 Jul 2026 14:58:53 GMT",
       "status": "Open for Claims",
       "deadline": "September 14, 2026",
-      "daysLeft": 39,
+      "daysLeft": 38,
       "category": "Civil rights",
       "settlementAmount": "$5,500,000",
       "caseNumber": "2:26-cv-02201-JJT",
@@ -886,7 +886,7 @@
       "administrator": "Analytics Consulting",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:47.278875+00:00"
+      "lastSeenAt": "2026-08-07T03:10:20.287959+00:00"
     },
     {
       "slug": "zymergen-securities-litigation",
@@ -898,7 +898,7 @@
       "publishedAt": "Mon, 27 Jul 2026 19:37:25 GMT",
       "status": "Open for Claims",
       "deadline": "October 11, 2026",
-      "daysLeft": 66,
+      "daysLeft": 65,
       "category": "Securities",
       "settlementAmount": "$125,000,000",
       "caseNumber": "5:21-cv-06028-PCP",
@@ -908,7 +908,7 @@
       "fairnessHearing": "October 13, 2026",
       "proofRequired": "Proof Required",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:47.384193+00:00"
+      "lastSeenAt": "2026-08-07T03:10:21.386785+00:00"
     },
     {
       "slug": "long-county-fire-fee-settlement",
@@ -928,7 +928,7 @@
       "finalApprovalHearing": "October 6, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:47.509276+00:00"
+      "lastSeenAt": "2026-08-07T03:10:22.223284+00:00"
     },
     {
       "slug": "chemocentryx-securities-litigation",
@@ -940,7 +940,7 @@
       "publishedAt": "Mon, 27 Jul 2026 17:18:41 GMT",
       "status": "Pending Final Approval",
       "deadline": "October 1, 2026",
-      "daysLeft": 56,
+      "daysLeft": 55,
       "category": "Securities",
       "settlementAmount": "$69,000,000",
       "caseNumber": "4:21-cv-03343-JST",
@@ -950,7 +950,7 @@
       "fairnessHearing": "October 29, 2026",
       "proofRequired": "Proof Required",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:47.628025+00:00"
+      "lastSeenAt": "2026-08-07T03:10:23.229170+00:00"
     },
     {
       "slug": "keystone-passport-class-action",
@@ -962,7 +962,7 @@
       "publishedAt": "Mon, 27 Jul 2026 16:13:57 GMT",
       "status": "Open for Claims",
       "deadline": "August 28, 2026",
-      "daysLeft": 22,
+      "daysLeft": 21,
       "category": "Automotive",
       "settlementAmount": "$3,107,000",
       "caseNumber": "2:23-cv-01393-MWC-RAO",
@@ -971,7 +971,7 @@
       "administrator": "Epiq Global",
       "proofRequired": "Proof Required",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:47.726866+00:00"
+      "lastSeenAt": "2026-08-07T03:10:24.118373+00:00"
     },
     {
       "slug": "continental-shareholder-litigation",
@@ -991,7 +991,7 @@
       "fairnessHearing": "November 10, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:47.832491+00:00"
+      "lastSeenAt": "2026-08-07T03:10:25.175529+00:00"
     },
     {
       "slug": "tesla-idle-fee-class-action",
@@ -1003,7 +1003,7 @@
       "publishedAt": "Fri, 24 Jul 2026 20:07:17 GMT",
       "status": "Open for Claims",
       "deadline": "September 25, 2026",
-      "daysLeft": 50,
+      "daysLeft": 49,
       "category": "Automotive",
       "caseNumber": "RG21102833",
       "caseTitle": "Shenkman v. Tesla Inc.",
@@ -1013,7 +1013,7 @@
       "finalApprovalHearing": "December 2, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:47.942790+00:00"
+      "lastSeenAt": "2026-08-07T03:10:26.186786+00:00"
     },
     {
       "slug": "caseys-tobacco-surcharge-settlement",
@@ -1033,7 +1033,7 @@
       "fairnessHearing": "October 26, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:48.064622+00:00"
+      "lastSeenAt": "2026-08-07T03:10:27.187672+00:00"
     },
     {
       "slug": "equinox-inc-settlement",
@@ -1045,7 +1045,7 @@
       "publishedAt": "Fri, 24 Jul 2026 17:59:40 GMT",
       "status": "Open for Claims",
       "deadline": "October 23, 2026",
-      "daysLeft": 78,
+      "daysLeft": 77,
       "category": "Data Breach",
       "settlementAmount": "$685,000",
       "caseNumber": "911677-24 (Sup. Ct. Albany Cty.) and 901198-25 (Sup. Ct. Albany Cty.)",
@@ -1056,7 +1056,7 @@
       "finalApprovalHearing": "November 12, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:48.194784+00:00"
+      "lastSeenAt": "2026-08-07T03:10:28.356707+00:00"
     },
     {
       "slug": "mount-sinai-data-settlement",
@@ -1068,7 +1068,7 @@
       "publishedAt": "Fri, 24 Jul 2026 16:59:07 GMT",
       "status": "Open for Claims",
       "deadline": "September 28, 2026",
-      "daysLeft": 53,
+      "daysLeft": 52,
       "category": "Privacy",
       "caseNumber": "CACE-26-006904-09",
       "caseTitle": "Luis Boggiano, et al. v. Mount Sinai Medical Center of Florida aka Mount Sinai Medical Center",
@@ -1078,7 +1078,7 @@
       "finalApprovalHearing": "October 13, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:48.309442+00:00"
+      "lastSeenAt": "2026-08-07T03:10:29.275140+00:00"
     },
     {
       "slug": "hscu-data-settlement",
@@ -1090,7 +1090,7 @@
       "publishedAt": "Fri, 24 Jul 2026 15:54:31 GMT",
       "status": "Open for Claims",
       "deadline": "October 5, 2026",
-      "daysLeft": 60,
+      "daysLeft": 59,
       "category": "Data Breach",
       "caseNumber": "61-CV-2025-900175",
       "caseTitle": "In re: Heritage South Credit Union Data Breach Litigation",
@@ -1100,7 +1100,7 @@
       "finalApprovalHearing": "October 19, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:48.434783+00:00"
+      "lastSeenAt": "2026-08-07T03:10:30.197195+00:00"
     },
     {
       "slug": "agiliti-stockholder-settlement",
@@ -1120,7 +1120,7 @@
       "fairnessHearing": "September 17, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:48.541049+00:00"
+      "lastSeenAt": "2026-08-07T03:10:31.092476+00:00"
     },
     {
       "slug": "system-pavers-data-incident",
@@ -1132,7 +1132,7 @@
       "publishedAt": "Thu, 23 Jul 2026 19:31:17 GMT",
       "status": "Open for Claims",
       "deadline": "September 28, 2026",
-      "daysLeft": 53,
+      "daysLeft": 52,
       "category": "Data Breach",
       "settlementAmount": "$350,544",
       "caseNumber": "30-2025-01477814-CU-BT-CXC",
@@ -1143,7 +1143,7 @@
       "finalApprovalHearing": "November 13, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:48.649708+00:00"
+      "lastSeenAt": "2026-08-07T03:10:31.973419+00:00"
     },
     {
       "slug": "bayhealth-pixel-settlement",
@@ -1155,7 +1155,7 @@
       "publishedAt": "Thu, 23 Jul 2026 18:27:01 GMT",
       "status": "Open for Claims",
       "deadline": "October 5, 2026",
-      "daysLeft": 60,
+      "daysLeft": 59,
       "category": "Privacy",
       "caseNumber": "N24C-09-002 FJJ",
       "caseTitle": "Doe et al. v. Bayhealth Medical Center Inc. d/b/a Bayhealth",
@@ -1165,7 +1165,7 @@
       "finalApprovalHearing": "October 29, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:48.774944+00:00"
+      "lastSeenAt": "2026-08-07T03:10:33.073868+00:00"
     },
     {
       "slug": "mckinney-scaleai-settlement",
@@ -1177,7 +1177,7 @@
       "publishedAt": "Thu, 23 Jul 2026 17:26:15 GMT",
       "status": "Preliminarily Approved",
       "deadline": "September 3, 2026",
-      "daysLeft": 28,
+      "daysLeft": 27,
       "category": "Labor",
       "settlementAmount": "$12,500,000",
       "caseNumber": "CGC-24-620481",
@@ -1188,7 +1188,7 @@
       "finalApprovalHearing": "October 30, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:48.885049+00:00"
+      "lastSeenAt": "2026-08-07T03:10:34.064641+00:00"
     },
     {
       "slug": "700credit-data-breach-settlement",
@@ -1200,7 +1200,7 @@
       "publishedAt": "Thu, 23 Jul 2026 15:40:37 GMT",
       "status": "Open for Claims",
       "deadline": "September 22, 2026",
-      "daysLeft": 47,
+      "daysLeft": 46,
       "category": "Data Breach",
       "settlementAmount": "$17,500,000",
       "caseNumber": "25-cv-13747",
@@ -1211,7 +1211,7 @@
       "finalApprovalHearing": "October 7, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:49.000326+00:00"
+      "lastSeenAt": "2026-08-07T03:10:34.980574+00:00"
     },
     {
       "slug": "activision-blizzard-stockholder-litigation",
@@ -1231,7 +1231,7 @@
       "fairnessHearing": "September 15, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:49.116523+00:00"
+      "lastSeenAt": "2026-08-07T03:10:35.932418+00:00"
     },
     {
       "slug": "realpage-rental-settlement",
@@ -1243,7 +1243,7 @@
       "publishedAt": "Wed, 22 Jul 2026 20:34:24 GMT",
       "status": "Open for Claims",
       "deadline": "January 29, 2027",
-      "daysLeft": 176,
+      "daysLeft": 175,
       "category": "Antitrust",
       "settlementAmount": "$359,925,000",
       "caseNumber": "3:23-MD-3071",
@@ -1253,7 +1253,7 @@
       "fairnessHearing": "October 15, 2026",
       "proofRequired": "Proof Required",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:49.222146+00:00"
+      "lastSeenAt": "2026-08-07T03:10:36.905845+00:00"
     },
     {
       "slug": "moodswings-ticketing-settlement",
@@ -1265,7 +1265,7 @@
       "publishedAt": "Wed, 22 Jul 2026 18:29:25 GMT",
       "status": "Open for Claims",
       "deadline": "September 18, 2026",
-      "daysLeft": 43,
+      "daysLeft": 42,
       "category": "Deceptive Pricing",
       "caseNumber": "628144/2025",
       "caseTitle": "Oliva, et al. v. Moodswings LLC",
@@ -1275,7 +1275,7 @@
       "finalApprovalHearing": "December 17, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:49.333488+00:00"
+      "lastSeenAt": "2026-08-07T03:10:37.790896+00:00"
     },
     {
       "slug": "thompson-fees-settlement",
@@ -1296,7 +1296,7 @@
       "finalApprovalHearing": "September 25, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:49.435982+00:00"
+      "lastSeenAt": "2026-08-07T03:10:38.727896+00:00"
     },
     {
       "slug": "moveit-settlement-ey-boa",
@@ -1308,7 +1308,7 @@
       "publishedAt": "Wed, 22 Jul 2026 14:07:13 GMT",
       "status": "Open for Claims",
       "deadline": "October 8, 2026",
-      "daysLeft": 63,
+      "daysLeft": 62,
       "category": "Data Breach",
       "settlementAmount": "$2,500,000",
       "caseNumber": "1:24-cv-11807-ADB",
@@ -1319,7 +1319,7 @@
       "finalApprovalHearing": "October 15, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:49.537669+00:00"
+      "lastSeenAt": "2026-08-07T03:10:40.002434+00:00"
     },
     {
       "slug": "acmq-fax-settlement",
@@ -1331,7 +1331,7 @@
       "publishedAt": "Tue, 21 Jul 2026 20:22:03 GMT",
       "status": "Open for Claims",
       "deadline": "September 11, 2026",
-      "daysLeft": 36,
+      "daysLeft": 35,
       "category": "Text Messages",
       "caseNumber": "22-cv-04198",
       "caseTitle": "Loop Spine & Sports Center Ltd. v. American College of Medical Quality Inc., et al.",
@@ -1341,7 +1341,7 @@
       "finalApprovalHearing": "October 22, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:49.651566+00:00"
+      "lastSeenAt": "2026-08-07T03:10:40.973418+00:00"
     },
     {
       "slug": "knowles-settlement",
@@ -1353,7 +1353,7 @@
       "publishedAt": "Tue, 21 Jul 2026 19:04:05 GMT",
       "status": "Preliminarily Approved",
       "deadline": "August 24, 2026",
-      "daysLeft": 18,
+      "daysLeft": 17,
       "category": "Labor",
       "settlementAmount": "$2,400,000",
       "caseNumber": "23CV014270",
@@ -1364,7 +1364,7 @@
       "finalApprovalHearing": "September 11, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:49.756765+00:00"
+      "lastSeenAt": "2026-08-07T03:10:41.995426+00:00"
     },
     {
       "slug": "evergy-erisa",
@@ -1384,7 +1384,7 @@
       "fairnessHearing": "October 1, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:49.864161+00:00"
+      "lastSeenAt": "2026-08-07T03:10:43.032316+00:00"
     },
     {
       "slug": "sh-spseposa-settlement",
@@ -1396,7 +1396,7 @@
       "publishedAt": "Tue, 21 Jul 2026 15:04:46 GMT",
       "status": "Open for Claims",
       "deadline": "September 15, 2026",
-      "daysLeft": 40,
+      "daysLeft": 39,
       "category": "Labor",
       "settlementAmount": "$737,000",
       "caseNumber": "25-2-19643-7 KNT",
@@ -1407,7 +1407,7 @@
       "finalApprovalHearing": "October 16, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:49.986967+00:00"
+      "lastSeenAt": "2026-08-07T03:10:43.847688+00:00"
     },
     {
       "slug": "heart-device-data-settlement",
@@ -1419,7 +1419,7 @@
       "publishedAt": "Mon, 20 Jul 2026 20:19:45 GMT",
       "status": "Open for Claims",
       "deadline": "September 2, 2026",
-      "daysLeft": 27,
+      "daysLeft": 26,
       "category": "Data Breach",
       "settlementAmount": "$3,500,000",
       "caseNumber": "1:23-cv-10575",
@@ -1430,7 +1430,7 @@
       "finalApprovalHearing": "September 10, 2026",
       "proofRequired": "Proof Required",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:50.107652+00:00"
+      "lastSeenAt": "2026-08-07T03:10:44.750756+00:00"
     },
     {
       "slug": "washington-commercial-email-settlement",
@@ -1442,7 +1442,7 @@
       "publishedAt": "Mon, 20 Jul 2026 19:19:23 GMT",
       "status": "Open for Claims",
       "deadline": "August 24, 2026",
-      "daysLeft": 18,
+      "daysLeft": 17,
       "category": "False Advertising",
       "settlementAmount": "$14,000,000",
       "caseNumber": "25-2-16392-0",
@@ -1453,7 +1453,7 @@
       "finalApprovalHearing": "October 2, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:50.216884+00:00"
+      "lastSeenAt": "2026-08-07T03:10:45.778278+00:00"
     },
     {
       "slug": "vector-data-settlement",
@@ -1465,7 +1465,7 @@
       "publishedAt": "Mon, 20 Jul 2026 18:55:00 GMT",
       "status": "Open for Claims",
       "deadline": "September 15, 2026",
-      "daysLeft": 40,
+      "daysLeft": 39,
       "category": "Data Breach",
       "caseNumber": "GD-26-002764",
       "caseTitle": "Kocher et. al. v. Vector Security Inc.",
@@ -1475,7 +1475,7 @@
       "finalApprovalHearing": "October 6, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:50.361087+00:00"
+      "lastSeenAt": "2026-08-07T03:10:45.999300+00:00"
     },
     {
       "slug": "furman-foods-data-settlement",
@@ -1487,7 +1487,7 @@
       "publishedAt": "Mon, 20 Jul 2026 17:37:52 GMT",
       "status": "Open for Claims",
       "deadline": "September 30, 2026",
-      "daysLeft": 55,
+      "daysLeft": 54,
       "category": "Data Breach",
       "caseNumber": "CV-25-528",
       "caseTitle": "Lawrence Hannity Jr. v. Furman Foods Inc. d/b/a Furmano’s",
@@ -1495,7 +1495,7 @@
       "administrator": "Atticus Administration",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:50.469199+00:00"
+      "lastSeenAt": "2026-08-07T03:10:47.666558+00:00"
     },
     {
       "slug": "pierce-county-library-data-settlement",
@@ -1507,7 +1507,7 @@
       "publishedAt": "Mon, 20 Jul 2026 14:56:57 GMT",
       "status": "Open for Claims",
       "deadline": "September 28, 2026",
-      "daysLeft": 53,
+      "daysLeft": 52,
       "category": "Data Breach",
       "caseNumber": "25-2-11297-2",
       "caseTitle": "In re: Pierce County Library System Data Breach Litigation",
@@ -1517,7 +1517,7 @@
       "finalApprovalHearing": "October 9, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:50.603475+00:00"
+      "lastSeenAt": "2026-08-07T03:10:48.517382+00:00"
     },
     {
       "slug": "epoa-settlementt-mui",
@@ -1529,7 +1529,7 @@
       "publishedAt": "Fri, 17 Jul 2026 20:29:43 GMT",
       "status": "Open for Claims",
       "deadline": "September 8, 2026",
-      "daysLeft": 33,
+      "daysLeft": 32,
       "category": "Labor",
       "settlementAmount": "$2,137,500",
       "caseNumber": "25-2-14873-4 SEA",
@@ -1540,7 +1540,7 @@
       "finalApprovalHearing": "October 23, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:50.701115+00:00"
+      "lastSeenAt": "2026-08-07T03:10:49.496373+00:00"
     },
     {
       "slug": "youtube-tv-settlement",
@@ -1552,7 +1552,7 @@
       "publishedAt": "Fri, 17 Jul 2026 19:28:45 GMT",
       "status": "Open for Claims",
       "deadline": "August 30, 2026",
-      "daysLeft": 24,
+      "daysLeft": 23,
       "category": "Deceptive Pricing",
       "settlementAmount": "$7,500,000",
       "caseNumber": "20CV366905",
@@ -1563,7 +1563,7 @@
       "finalApprovalHearing": "October 15, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:50.820354+00:00"
+      "lastSeenAt": "2026-08-07T03:10:49.698108+00:00"
     },
     {
       "slug": "towne-nurse-settlement",
@@ -1575,7 +1575,7 @@
       "publishedAt": "Fri, 17 Jul 2026 18:16:20 GMT",
       "status": "Open for Claims",
       "deadline": "September 14, 2026",
-      "daysLeft": 39,
+      "daysLeft": 38,
       "category": "Labor",
       "settlementAmount": "$1,850,000",
       "caseNumber": "MON-L-002021-26",
@@ -1585,7 +1585,7 @@
       "fairnessHearing": "October 7, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:50.913513+00:00"
+      "lastSeenAt": "2026-08-07T03:10:49.939246+00:00"
     },
     {
       "slug": "uphs-pixel-settlement",
@@ -1597,7 +1597,7 @@
       "publishedAt": "Fri, 17 Jul 2026 17:16:46 GMT",
       "status": "Open for Claims",
       "deadline": "September 16, 2026",
-      "daysLeft": 41,
+      "daysLeft": 40,
       "category": "Privacy",
       "settlementAmount": "$9,250,000",
       "caseNumber": "230102149",
@@ -1608,7 +1608,7 @@
       "finalApprovalHearing": "November 12, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:51.015726+00:00"
+      "lastSeenAt": "2026-08-07T03:10:50.862932+00:00"
     },
     {
       "slug": "quotient-stockholder-settlement",
@@ -1628,7 +1628,7 @@
       "fairnessHearing": "September 22, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:51.128647+00:00"
+      "lastSeenAt": "2026-08-07T03:10:51.806046+00:00"
     },
     {
       "slug": "aguilar-uim-class-settlement",
@@ -1640,7 +1640,7 @@
       "publishedAt": "Fri, 17 Jul 2026 15:13:54 GMT",
       "status": "Open for Claims",
       "deadline": "September 27, 2026",
-      "daysLeft": 52,
+      "daysLeft": 51,
       "category": "Insurance",
       "caseNumber": "1:23-0247 JB/JMR",
       "caseTitle": "Aguilar-Tafoya and Brewton v. The Travelers Indemnity Co., et al.",
@@ -1650,7 +1650,7 @@
       "finalApprovalHearing": "July 29, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:51.239879+00:00"
+      "lastSeenAt": "2026-08-07T03:10:52.724318+00:00"
     },
     {
       "slug": "refresco-settlement",
@@ -1662,7 +1662,7 @@
       "publishedAt": "Thu, 16 Jul 2026 19:12:42 GMT",
       "status": "Open for Claims",
       "deadline": "September 14, 2026",
-      "daysLeft": 39,
+      "daysLeft": 38,
       "category": "Labor",
       "settlementAmount": "$4,265,000",
       "caseNumber": "25-2-19588-1 SEA",
@@ -1673,7 +1673,7 @@
       "finalApprovalHearing": "October 23, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:51.380182+00:00"
+      "lastSeenAt": "2026-08-07T03:10:53.642365+00:00"
     },
     {
       "slug": "concord-pixel-settlement",
@@ -1685,7 +1685,7 @@
       "publishedAt": "Thu, 16 Jul 2026 18:32:05 GMT",
       "status": "Open for Claims",
       "deadline": "September 11, 2026",
-      "daysLeft": 36,
+      "daysLeft": 35,
       "category": "Privacy",
       "settlementAmount": "$800,000",
       "caseNumber": "217-2024-CV-00295",
@@ -1696,7 +1696,7 @@
       "finalApprovalHearing": "November 3, 2026",
       "proofRequired": "No Proof",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:51.517472+00:00"
+      "lastSeenAt": "2026-08-07T03:10:53.851463+00:00"
     },
     {
       "slug": "sfcu-fee-settlement",
@@ -1717,7 +1717,7 @@
       "finalApprovalHearing": "December 10, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:51.634792+00:00"
+      "lastSeenAt": "2026-08-07T03:10:54.693696+00:00"
     },
     {
       "slug": "edgio-securities-litigation",
@@ -1729,7 +1729,7 @@
       "publishedAt": "Thu, 16 Jul 2026 16:59:06 GMT",
       "status": "Open for Claims",
       "deadline": "September 28, 2026",
-      "daysLeft": 53,
+      "daysLeft": 52,
       "category": "Securities",
       "settlementAmount": "$15,000,000",
       "caseNumber": "2:23-cv-00691-PHX-DJH",
@@ -1739,7 +1739,7 @@
       "fairnessHearing": "September 14, 2026",
       "proofRequired": "Proof Required",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:51.748103+00:00"
+      "lastSeenAt": "2026-08-07T03:10:54.876533+00:00"
     },
     {
       "slug": "dats-data-breach-settlement",
@@ -1751,7 +1751,7 @@
       "publishedAt": "Thu, 16 Jul 2026 14:21:17 GMT",
       "status": "Open for Claims",
       "deadline": "September 24, 2026",
-      "daysLeft": 49,
+      "daysLeft": 48,
       "category": "Data Breach",
       "settlementAmount": "$549,000",
       "caseNumber": "2025-CV-03681",
@@ -1762,7 +1762,7 @@
       "finalApprovalHearing": "November 24, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:51.859129+00:00"
+      "lastSeenAt": "2026-08-07T03:10:55.866422+00:00"
     },
     {
       "slug": "bsf-tcpa-settlement",
@@ -1783,7 +1783,7 @@
       "fairnessHearing": "June 1, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:51.981984+00:00"
+      "lastSeenAt": "2026-08-07T03:10:56.116374+00:00"
     },
     {
       "slug": "hydrafacial-company-settlement",
@@ -1795,7 +1795,7 @@
       "publishedAt": "Wed, 15 Jul 2026 18:29:28 GMT",
       "status": "Preliminarily Approved",
       "deadline": "September 14, 2026",
-      "daysLeft": 39,
+      "daysLeft": 38,
       "category": "Product Liability",
       "settlementAmount": "$925,000",
       "caseNumber": "1:24-cv-08073-VEC",
@@ -1806,7 +1806,7 @@
       "finalApprovalHearing": "December 4, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:52.109266+00:00"
+      "lastSeenAt": "2026-08-07T03:10:57.065754+00:00"
     },
     {
       "slug": "night-bb-settlement",
@@ -1818,7 +1818,7 @@
       "publishedAt": "Wed, 15 Jul 2026 17:13:17 GMT",
       "status": "Open for Claims",
       "deadline": "September 25, 2026",
-      "daysLeft": 50,
+      "daysLeft": 49,
       "category": "False Advertising",
       "settlementAmount": "$8,163,000",
       "caseNumber": "26CU017232N",
@@ -1828,7 +1828,7 @@
       "finalApprovalHearing": "October 16, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:52.204010+00:00"
+      "lastSeenAt": "2026-08-07T03:10:57.281096+00:00"
     },
     {
       "slug": "chantix-settlement",
@@ -1840,7 +1840,7 @@
       "publishedAt": "Wed, 15 Jul 2026 16:47:25 GMT",
       "status": "Open for Claims",
       "deadline": "September 14, 2026",
-      "daysLeft": 39,
+      "daysLeft": 38,
       "category": "Product Liability",
       "settlementAmount": "$44,000,000",
       "caseNumber": "22-MD-3050 (KPF) and 22-MC-3050 (S.D.N.Y.)",
@@ -1850,7 +1850,7 @@
       "fairnessHearing": "October 13, 2026",
       "proofRequired": "Proof Required",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:52.310587+00:00"
+      "lastSeenAt": "2026-08-07T03:10:57.530530+00:00"
     },
     {
       "slug": "payactiv-data-incident-settlement",
@@ -1862,7 +1862,7 @@
       "publishedAt": "Wed, 15 Jul 2026 14:59:23 GMT",
       "status": "Open for Claims",
       "deadline": "September 12, 2026",
-      "daysLeft": 37,
+      "daysLeft": 36,
       "category": "Data Breach",
       "caseNumber": "CACE-26-005865",
       "caseTitle": "Susan Toth, et al. v. Payactiv Inc.",
@@ -1872,7 +1872,7 @@
       "finalApprovalHearing": "October 12, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:52.420801+00:00"
+      "lastSeenAt": "2026-08-07T03:10:58.809363+00:00"
     },
     {
       "slug": "premium-tax-settlement",
@@ -1893,7 +1893,7 @@
       "finalApprovalHearing": "September 24, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:52.534944+00:00"
+      "lastSeenAt": "2026-08-07T03:10:59.807411+00:00"
     },
     {
       "slug": "sports-ed-tv-settlement",
@@ -1905,7 +1905,7 @@
       "publishedAt": "Tue, 14 Jul 2026 17:36:54 GMT",
       "status": "Open for Claims",
       "deadline": "September 10, 2026",
-      "daysLeft": 35,
+      "daysLeft": 34,
       "category": "Privacy",
       "settlementAmount": "$500,000",
       "caseNumber": "3:25-cv-04046-SK",
@@ -1916,7 +1916,7 @@
       "finalApprovalHearing": "February 8, 2027",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:52.650502+00:00"
+      "lastSeenAt": "2026-08-07T03:11:00.031728+00:00"
     },
     {
       "slug": "lee-university-data-breach-settlement",
@@ -1928,7 +1928,7 @@
       "publishedAt": "Tue, 14 Jul 2026 15:17:08 GMT",
       "status": "Open for Claims",
       "deadline": "August 19, 2026",
-      "daysLeft": 13,
+      "daysLeft": 12,
       "category": "Data Breach",
       "settlementAmount": "$1,750,000",
       "caseNumber": "1:25-cv-00107",
@@ -1939,7 +1939,7 @@
       "finalApprovalHearing": "September 3, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:52.754529+00:00"
+      "lastSeenAt": "2026-08-07T03:11:00.953419+00:00"
     },
     {
       "slug": "dohman-data-settlement",
@@ -1951,7 +1951,7 @@
       "publishedAt": "Mon, 13 Jul 2026 20:12:58 GMT",
       "status": "Open for Claims",
       "deadline": "September 10, 2026",
-      "daysLeft": 35,
+      "daysLeft": 34,
       "category": "Data Breach",
       "caseNumber": "CI 24-3685",
       "caseTitle": "Delmar Kentner, et al. v. Dohman, Akerlund & Eddy LLC",
@@ -1961,7 +1961,7 @@
       "finalApprovalHearing": "September 25, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:52.859406+00:00"
+      "lastSeenAt": "2026-08-07T03:11:01.168518+00:00"
     },
     {
       "slug": "generic-drugs-end-payer-settlement",
@@ -1973,7 +1973,7 @@
       "publishedAt": "Mon, 13 Jul 2026 17:32:18 GMT",
       "status": "Open for Claims",
       "deadline": "November 9, 2026",
-      "daysLeft": 95,
+      "daysLeft": 94,
       "category": "Antitrust",
       "settlementAmount": "$200,000,000",
       "caseNumber": "2:16-MD-02724",
@@ -1983,7 +1983,7 @@
       "fairnessHearing": "January 15, 2026",
       "proofRequired": "Proof Required",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:52.964679+00:00"
+      "lastSeenAt": "2026-08-07T03:11:01.329399+00:00"
     },
     {
       "slug": "mn-ortho-data-settlement",
@@ -2004,7 +2004,7 @@
       "finalApprovalHearing": "June 5, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:53.080003+00:00"
+      "lastSeenAt": "2026-08-07T03:11:02.628313+00:00"
     },
     {
       "slug": "emanate-privacy-settlement",
@@ -2016,7 +2016,7 @@
       "publishedAt": "Mon, 13 Jul 2026 15:15:02 GMT",
       "status": "Open for Claims",
       "deadline": "September 29, 2026",
-      "daysLeft": 54,
+      "daysLeft": 53,
       "category": "Privacy",
       "settlementAmount": "$777,000",
       "caseNumber": "22STCV28142",
@@ -2027,7 +2027,7 @@
       "finalApprovalHearing": "November 19, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:53.193479+00:00"
+      "lastSeenAt": "2026-08-07T03:11:03.537639+00:00"
     },
     {
       "slug": "excel-fitness-data-settlement",
@@ -2039,7 +2039,7 @@
       "publishedAt": "Mon, 13 Jul 2026 14:23:07 GMT",
       "status": "Open for Claims",
       "deadline": "September 21, 2026",
-      "daysLeft": 46,
+      "daysLeft": 45,
       "category": "Data Breach",
       "caseNumber": "CJ-2026-1077",
       "caseTitle": "Kessler, et al. v. Excel Fitness Consolidator LLC d/b/a Excel Fitness Management LLC",
@@ -2049,7 +2049,7 @@
       "finalApprovalHearing": "February 4, 2027",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:53.301575+00:00"
+      "lastSeenAt": "2026-08-07T03:11:04.617956+00:00"
     },
     {
       "slug": "lifestance-pixel-settlement",
@@ -2061,7 +2061,7 @@
       "publishedAt": "Mon, 13 Jul 2026 13:46:35 GMT",
       "status": "Open for Claims",
       "deadline": "September 29, 2026",
-      "daysLeft": 54,
+      "daysLeft": 53,
       "category": "Privacy",
       "settlementAmount": "$3,027,874.44",
       "caseNumber": "2:23-cv-00682",
@@ -2072,7 +2072,7 @@
       "finalApprovalHearing": "October 16, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:53.452816+00:00"
+      "lastSeenAt": "2026-08-07T03:11:04.823420+00:00"
     },
     {
       "slug": "apollomd-data-settlement",
@@ -2084,7 +2084,7 @@
       "publishedAt": "Fri, 10 Jul 2026 19:28:28 GMT",
       "status": "Open for Claims",
       "deadline": "September 30, 2026",
-      "daysLeft": 55,
+      "daysLeft": 54,
       "category": "Data Breach",
       "settlementAmount": "$4,020,000",
       "caseNumber": "1:25-cv-05439-SEG",
@@ -2095,7 +2095,7 @@
       "finalApprovalHearing": "October 5, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:53.580789+00:00"
+      "lastSeenAt": "2026-08-07T03:11:05.708219+00:00"
     },
     {
       "slug": "healthcare-services-group-settlement",
@@ -2107,7 +2107,7 @@
       "publishedAt": "Fri, 10 Jul 2026 18:16:36 GMT",
       "status": "Open for Claims",
       "deadline": "October 1, 2026",
-      "daysLeft": 56,
+      "daysLeft": 55,
       "category": "Data Breach",
       "settlementAmount": "$3,000,000",
       "caseNumber": "2:25-cv-04908-JDW",
@@ -2117,7 +2117,7 @@
       "fairnessHearing": "September 24, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:53.695074+00:00"
+      "lastSeenAt": "2026-08-07T03:11:08.201532+00:00"
     },
     {
       "slug": "cd-kb-settlement",
@@ -2129,7 +2129,7 @@
       "publishedAt": "Fri, 10 Jul 2026 13:17:19 GMT",
       "status": "Preliminarily Approved",
       "deadline": "August 10, 2026",
-      "daysLeft": 4,
+      "daysLeft": 3,
       "category": "Labor",
       "settlementAmount": "$1,000,000",
       "caseNumber": "23-2-20218-0 SEA",
@@ -2140,7 +2140,7 @@
       "finalApprovalHearing": "September 8, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:53.808313+00:00"
+      "lastSeenAt": "2026-08-07T03:11:09.192371+00:00"
     },
     {
       "slug": "ust-data-settlement",
@@ -2152,7 +2152,7 @@
       "publishedAt": "Thu, 09 Jul 2026 20:46:02 GMT",
       "status": "Open for Claims",
       "deadline": "September 28, 2026",
-      "daysLeft": 53,
+      "daysLeft": 52,
       "category": "Data Breach",
       "caseNumber": "2025-83309",
       "caseTitle": "Amy Crull v. University of St. Thomas",
@@ -2160,7 +2160,7 @@
       "administrator": "Simpluris",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:53.945048+00:00"
+      "lastSeenAt": "2026-08-07T03:11:10.159533+00:00"
     },
     {
       "slug": "aidvantage-tcpa-settlement",
@@ -2172,7 +2172,7 @@
       "publishedAt": "Thu, 09 Jul 2026 18:17:28 GMT",
       "status": "Open for Claims",
       "deadline": "August 24, 2026",
-      "daysLeft": 18,
+      "daysLeft": 17,
       "category": "Text Messages",
       "settlementAmount": "$3,000,000",
       "caseNumber": "2:25-cv-00121",
@@ -2182,7 +2182,7 @@
       "fairnessHearing": "October 7, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:54.070092+00:00"
+      "lastSeenAt": "2026-08-07T03:11:10.410084+00:00"
     },
     {
       "slug": "marchek-total-loss-settlement",
@@ -2194,7 +2194,7 @@
       "publishedAt": "Thu, 09 Jul 2026 15:53:07 GMT",
       "status": "Open for Claims",
       "deadline": "October 8, 2026",
-      "daysLeft": 63,
+      "daysLeft": 62,
       "category": "Insurance",
       "settlementAmount": "$647,263.74",
       "caseNumber": "1:21-cv-00087",
@@ -2205,7 +2205,7 @@
       "finalApprovalHearing": "September 8, 2026",
       "proofRequired": "Not Applicable",
       "source": "claimdepot",
-      "lastSeenAt": "2026-08-06T21:54:54.209488+00:00"
+      "lastSeenAt": "2026-08-07T03:11:11.329617+00:00"
     }
   ]
 }
