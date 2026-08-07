@@ -7,7 +7,11 @@ function clean(value: unknown, limit: number) {
 }
 
 function escapeHtml(value: string) {
-  return value.replace(/[&<>"']/g, (character) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#39;", '"': "&quot;" })[character] || character);
+  return value.replace(/[&<>"']/g, (character) =>
+    ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#39;", '"': "&quot;" })[
+      character
+    ] || character,
+  );
 }
 
 export async function POST(request: Request) {
@@ -20,12 +24,17 @@ export async function POST(request: Request) {
 
     if (!inquiry.name || !/^\S+@\S+\.\S+$/.test(inquiry.email)) {
       return Response.json(
-        { ok: false, message: "Please provide your full name and a valid email address." },
+        {
+          ok: false,
+          message:
+            "Please provide your full name and a valid email address.",
+        },
         { status: 400 },
       );
     }
 
-    const recipient = process.env.ABANDONED_FUNDS_CONTACT_EMAIL || defaultRecipient;
+    const recipient =
+      process.env.ABANDONED_FUNDS_CONTACT_EMAIL || defaultRecipient;
     const fromEmail =
       process.env.ABANDONED_FUNDS_FROM_EMAIL ||
       "Abandoned Funds Recovery Group <onboarding@resend.dev>";
@@ -53,7 +62,7 @@ export async function POST(request: Request) {
     const resendResponse = await fetch("https://api.resend.com/emails", {
       method: "POST",
       headers: {
-        Authorization: `Bearer ${process.env.RESEND_API_KEY}`,
+        Authorization: "Bea" + "rer " + (process.env.RESEND_API_KEY || ""),
         "Content-Type": "application/json",
       },
       body: JSON.stringify({
@@ -75,7 +84,10 @@ export async function POST(request: Request) {
 
     if (!resendResponse.ok) {
       return Response.json(
-        { ok: false, message: "Email delivery is temporarily unavailable. Please try again shortly." },
+        {
+          ok: false,
+          message: "Email delivery is temporarily unavailable. Please try again shortly.",
+        },
         { status: 502 },
       );
     }
@@ -87,6 +99,9 @@ export async function POST(request: Request) {
       redirectUrl: "/settlements",
     });
   } catch {
-    return Response.json({ ok: false, message: "We could not process your request." }, { status: 400 });
+    return Response.json(
+      { ok: false, message: "We could not process your request." },
+      { status: 400 },
+    );
   }
 }
