@@ -29,8 +29,9 @@ button, input, textarea { font: inherit; }
 .brand-copy strong { font-size: 13px; letter-spacing: .18em; }
 .brand-copy span { margin-top: 4px; color: rgba(255,255,255,.58); font: 12px/1 var(--font-geist-mono), monospace; letter-spacing: .16em; }
 nav { display: flex; align-items: center; gap: clamp(22px, 3vw, 48px); font-size: 12px; letter-spacing: .04em; }
-nav > a:not(.nav-cta) { color: rgba(255,255,255,.7); transition: color .2s; }
-nav > a:hover { color: white; }
+nav > a:not(.nav-cta) { color: rgba(255,255,255,.7); font-weight: 400; transition: color .2s, font-weight .2s, transform .2s, text-shadow .2s; }
+nav > a:not(.nav-cta):hover,
+nav > a:not(.nav-cta):active { color: var(--gold); font-weight: 700; transform: translateY(-3px); text-shadow: 0 4px 12px rgba(212,175,106,.4); }
 .nav-cta { border-left: 1px solid rgba(255,255,255,.18); padding-left: clamp(22px, 3vw, 48px); }
 .nav-cta span { color: var(--gold); margin-left: 8px; }
 
@@ -122,6 +123,11 @@ nav > a:hover { color: white; }
     animation: none;
     border-color: rgba(212, 175, 106, .5) !important;
     box-shadow: 0 0 0 0 rgba(212, 175, 106, .3) !important;
+  }
+  nav > a:not(.nav-cta) {
+    transform: none !important;
+    text-shadow: none !important;
+    font-weight: 400 !important;
   }
 }
 
