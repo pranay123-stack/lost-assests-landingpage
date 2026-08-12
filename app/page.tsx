@@ -233,7 +233,7 @@ export default function Home() {
               <strong>Funds</strong>
               <small>verified</small>
             </div>
-            <div className="data-tag tag-a"><small>LOCATE FUNDS</small><strong>04.782</strong></div>
+            <div className="data-tag tag-a"><small>LOCATE FUNDS</small><strong>Recovery</strong></div>
             <div className="data-tag tag-b"><small>STATUS</small><strong>VALIDATED</strong></div>
             <div className="data-tag tag-c"><small>CONFIDENCE</small><strong>HIGH</strong></div>
           </div>
@@ -360,7 +360,7 @@ export default function Home() {
         <div className="stats-panel">
           <div className="eyebrow dark"><span /> Verified recovery intelligence</div>
           <h2>West Coast unclaimed assets.<br /><em>$17.2B safeguarded.</em></h2>
-          <p className="stats-lede">California&apos;s State Controller safeguards approximately $15B in unclaimed property — including $5.3B in Los Angeles County alone. Combined with an estimated $2.1T in lost 401(k) accounts across the West Coast, our research tracks over 84 million individual properties for near 39 million potential owners.</p>
+          <p className="stats-lede">Nationwide, state unclaimed-property programs safeguard over $80+Billion nationally. Combined with an estimated $2.1 Trillion in left-behind 401(k) assets, our research tracks over 84 million individual properties for near 39 million potential owners.</p>
           <div className="stats-grid">
             <div className="stat-card">
               <strong className="stat-value">$15B+</strong>
